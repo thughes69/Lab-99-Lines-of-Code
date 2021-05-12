@@ -1,0 +1,8 @@
+body{
+    background-color: blueviolet;
+}
+
+/* CSS child combinator */
+.friend > h3 {
+    text-transform: uppercase;
+}
