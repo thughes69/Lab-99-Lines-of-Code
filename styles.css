@@ -6,3 +6,9 @@ body{
 .friend > h3 {
     text-transform: uppercase;
 }
+h1{
+    color: burlywood;
+}
+.friend {
+    background-color: coral;
+}
